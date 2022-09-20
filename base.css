@@ -1,0 +1,23 @@
+header {
+    background-color: #fcf6f8;
+    text-align: center;
+    margin: 0%;
+    height: 90px;
+    padding: 1%;
+    display: flex;
+    height: 280px;
+    border-bottom: 6px solid white;
+    
+}
+
+body {
+    background-color: #fcf6f8;
+}
+
+.nome {
+    color: 	#FFB6C1;
+}
+
+.cadastro {
+    color: #FFB6C1;
+}
